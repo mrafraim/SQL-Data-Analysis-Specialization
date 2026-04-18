@@ -5,7 +5,7 @@ Welcome to my SQL learning journey! This repository documents my step-by-step pr
 ## Objective
 To build a comprehensive portfolio of SQL scripts and data analysis projects, demonstrating real-world database management, data querying, and business problem-solving skills.
 
-## Repository Structure 📂
+## 📂 Repository Structure 
 This repository is organized into five progressive phases, covering everything from basic syntax to advanced analytical concepts.
 
 ### `01_Basic_Setup/`
