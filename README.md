@@ -1,6 +1,6 @@
 # SQL-Data-Analysis-Specialization
 
-Welcome to my SQL learning journey! This repository documents my step-by-step progress from a SQL beginner to an advanced Data Analyst using PostgreSQL. 
+Welcome to the SQL learning journey! This repository documents step-by-step progress from a SQL beginner to an advanced Data Analyst using PostgreSQL. 
 
 ## Objective
 To build a comprehensive portfolio of SQL scripts and data analysis projects, demonstrating real-world database management, data querying, and business problem-solving skills.
