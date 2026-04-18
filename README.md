@@ -15,6 +15,6 @@ This repository is organized into five core phases based on real-world data anal
 * **[Phase 5] The Capstone Project:** End-to-end data cleaning, complex business reporting, and query optimization.
 
 ## Repository Structure
-Each folder represents a specific step in my learning process, containing `.sql` files with the queries and logic used for that lesson.
+Each folder represents a specific step in the learning process, containing `.sql` files with the queries and logic used for that lesson.
 
 * `01_Basic_Setup/`: Contains the initial database setup and mock e-commerce dataset creation.
