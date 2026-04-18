@@ -5,11 +5,6 @@ Welcome to the SQL learning journey! This repository documents step-by-step prog
 ## Objective
 To build a comprehensive portfolio of SQL scripts and data analysis projects, demonstrating real-world database management, data querying, and business problem-solving skills.
 
-## Tools Used
-* **Database Engine:** PostgreSQL
-* **Management Tool:** pgAdmin
-* **Version Control:** Git & GitHub
-
 ## Learning Roadmap
 This repository is organized into five core phases based on real-world data analyst requirements:
 
